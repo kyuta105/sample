@@ -7,3 +7,6 @@ __pycache__/
 
 # VS Code
 .vscode/
+
+route_map.html
+.ipynb_checkpoints/
